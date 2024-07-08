@@ -1,4 +1,4 @@
-# EEG Cognitive State Classification
+# EEG Cognitive State Classification 📊🧠
 
 ## Overview
 This project focuses on the analysis of EEG data to classify different cognitive states using advanced deep learning techniques. The data is sourced from the [Mental Arithmetic Tasks Dataset](https://physionet.org/content/eegmat/1.0.0/) available at PhysioNet. The dataset is pre-cleaned and ready for use, allowing you to concentrate on model implementation and evaluation. For a detailed understanding of the dataset, please refer to the accompanying [research paper](https://www.mdpi.com/2306-5729/4/1/14).
